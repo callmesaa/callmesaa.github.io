@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
     window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Sending you lots of love on your birthday!',
+        title: 'Happy level up day sayangg!',
         icon: 'warning',
         //showCancelButton: true,
         //confirmButtonColor: '#3085d6',
